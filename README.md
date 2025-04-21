@@ -36,7 +36,7 @@ pnpm install
 npm i
 ```
 
-5. Start the project.
+4. Start the project.
 ```sh
 pnpm dev
 ```
